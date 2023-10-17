@@ -27,7 +27,7 @@ import asyncio
 import os
 import requests
 import time
-from .p_bar import progress_bar
+from KHABAR import p_bar.py
 import aiohttp
 import tgcrypto
 import concurrent.futures
